@@ -1,0 +1,38 @@
+textbox1,,,,,,,,,,,,,,,,,,
+"UserID: MITRA10HO\budi.warman - Wednesday, 03-Jun-2026 13:10:52
+Update Location Status Report
+Location: 80002 - MITRA10 SOLO BARU",,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+ZoneName,StorageLocationId,StorageLocationName,StorageLocationActiveStatus,StorageLocationTypeName,LastModifiedDate,AuditUserName,LengthCapacity,WidthCapacity,HeightCapacity,WeightCapacity,VolumeCapacity,CountOfItem,SumOfStockOnHandQty,,,,,
+Building Material Zone,C010010102,C010010102,Active,RACKING,02-06-2026,sc9.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,13,8
+Building Material Zone,C010020102,C010020102,Active,RACKING,02-06-2026,sc9.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,0,0
+Building Material Zone,C010030102,C010030102,Active,RACKING,02-06-2026,sc9.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,6,2
+Building Material Zone,C010040102,C010040102,Active,RACKING,02-06-2026,sc9.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,6,65
+Building Material Zone,C010050102,C010050102,Active,RACKING,02-06-2026,sc9.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,4,3
+Building Material Zone,C010060102,C010060102,Active,RACKING,24-05-2026,ika.yuliyanto@mitra10.com,99,999,99,999,99,999,99,999,99,999,3,3
+Building Material Zone,C010070102,C010070102,Active,RACKING,05-11-2025,sc2.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,2,2
+Building Material Zone,C010080102,C010080102,Active,RACKING,05-11-2025,sc2.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,0,0
+Building Material Zone,C020010102,C020010102,Active,RACKING,02-06-2026,sc9.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,7,4
+Building Material Zone,C020020102,C020020102,Active,RACKING,02-06-2026,sc9.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,7,1
+Building Material Zone,C020030102,C020030102,Active,RACKING,02-06-2026,sc9.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,9,1
+Building Material Zone,C020040102,C020040102,Active,RACKING,02-06-2026,sc9.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,5,14
+Building Material Zone,C020050102,C020050102,Active,RACKING,02-06-2026,sc9.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,12,5
+Building Material Zone,C020060102,C020060102,Active,RACKING,02-06-2026,sc9.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,11,3
+Building Material Zone,C020070102,C020070102,Active,RACKING,02-06-2026,sc9.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,4,2
+Building Material Zone,C020080102,C020080102,Active,RACKING,02-06-2026,sc9.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,4,1
+Flooring & Wall Zone,C020090102,C020090102,Active,RACKING,02-06-2026,sc1.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,3,47
+Flooring & Wall Zone,C020100102,C020100102,Active,RACKING,02-06-2026,sc1.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,5,101
+Flooring & Wall Zone,C020110102,C020110102,Active,RACKING,02-06-2026,sc1.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,10,46
+Flooring & Wall Zone,C020120102,C020120102,Active,RACKING,02-06-2026,sc1.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,7,180
+Flooring & Wall Zone,C020130102,C020130102,Active,RACKING,02-06-2026,sc1.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,4,203
+Flooring & Wall Zone,C020140102,C020140102,Active,RACKING,02-06-2026,sc1.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,8,112
+Flooring & Wall Zone,C020150102,C020150102,Active,RACKING,02-06-2026,sc1.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,7,252
+Flooring & Wall Zone,C020160102,C020160102,Active,RACKING,02-06-2026,retno.setyowati@mitra10.com,99,999,99,999,99,999,99,999,99,999,8,462
+Flooring & Wall Zone,C020170102,C020170102,Active,RACKING,02-06-2026,muhammad.imron@mitra10.com,99,999,99,999,99,999,99,999,99,999,5,189
+Flooring & Wall Zone,C020180102,C020180102,Active,RACKING,02-06-2026,sc1.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,8,310
+Building Material Zone,C030010102,C030010102,Active,RACKING,02-06-2026,sc9.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,10,43
+Building Material Zone,C030010202,C030010202,Active,RACKING,23-11-2025,sc2.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,1,4
+Building Material Zone,C030010302,C030010302,Active,RACKING,23-11-2025,sc2.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,0,0
+Building Material Zone,C030020102,C030020102,Active,RACKING,02-06-2026,bunga.shabrina@mitra10.com,99,999,99,999,99,999,99,999,99,999,8,101
+Building Material Zone,C030020202,C030020202,Active,RACKING,23-11-2025,sc2.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,0,0
+Building Material Zone,C030020302,C030020302,Active,RACKING,23-11-2025,sc2.solobaru@mitra10.com,99,999,99,999,99,999,99,999,99,999,0,0
